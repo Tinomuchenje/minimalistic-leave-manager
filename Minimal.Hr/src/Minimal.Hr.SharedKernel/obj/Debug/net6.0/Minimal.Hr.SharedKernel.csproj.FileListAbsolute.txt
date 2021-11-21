@@ -1,0 +1,12 @@
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.SharedKernel\bin\Debug\net6.0\Minimal.Hr.SharedKernel.deps.json
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.SharedKernel\bin\Debug\net6.0\Minimal.Hr.SharedKernel.dll
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.SharedKernel\bin\Debug\net6.0\ref\Minimal.Hr.SharedKernel.dll
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.SharedKernel\bin\Debug\net6.0\Minimal.Hr.SharedKernel.pdb
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.SharedKernel\obj\Debug\net6.0\Minimal.Hr.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.SharedKernel\obj\Debug\net6.0\Minimal.Hr.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.SharedKernel\obj\Debug\net6.0\Minimal.Hr.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.SharedKernel\obj\Debug\net6.0\Minimal.Hr.SharedKernel.AssemblyInfo.cs
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.SharedKernel\obj\Debug\net6.0\Minimal.Hr.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.SharedKernel\obj\Debug\net6.0\Minimal.Hr.SharedKernel.dll
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.SharedKernel\obj\Debug\net6.0\ref\Minimal.Hr.SharedKernel.dll
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.SharedKernel\obj\Debug\net6.0\Minimal.Hr.SharedKernel.pdb

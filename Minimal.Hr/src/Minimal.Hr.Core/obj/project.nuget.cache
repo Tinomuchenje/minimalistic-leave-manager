@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "XEMBA4zyvR0PSjA2zgsIOfhNojaGW6eHvmmeE7MCgHgedKEBHQm5ONKo94MD86DU34lEjhSOsTFApjtPHOyI6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rethabile Tlali\\source\\repos\\minimalistic-leave-manager\\Minimal.Hr\\src\\Minimal.Hr.Core\\Minimal.Hr.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rethabile Tlali\\.nuget\\packages\\ardalis.guardclauses\\3.3.0\\ardalis.guardclauses.3.3.0.nupkg.sha512",
+    "C:\\Users\\Rethabile Tlali\\.nuget\\packages\\ardalis.result\\3.1.2\\ardalis.result.3.1.2.nupkg.sha512",
+    "C:\\Users\\Rethabile Tlali\\.nuget\\packages\\ardalis.specification\\5.2.0\\ardalis.specification.5.2.0.nupkg.sha512",
+    "C:\\Users\\Rethabile Tlali\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\Rethabile Tlali\\.nuget\\packages\\jetbrains.annotations\\2021.2.0\\jetbrains.annotations.2021.2.0.nupkg.sha512",
+    "C:\\Users\\Rethabile Tlali\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Rethabile Tlali\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

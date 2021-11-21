@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RjQuR7Ynn/hozhZZ1XOpAKWbw1Tg2X1psVPX4/fw97gw5krMamhbckThtbDo2dKLW3DeZWuU7hBNze4xDQ89Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rethabile Tlali\\source\\repos\\minimalistic-leave-manager\\Minimal.Hr\\src\\Minimal.Hr.SharedKernel\\Minimal.Hr.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rethabile Tlali\\.nuget\\packages\\ardalis.specification\\5.2.0\\ardalis.specification.5.2.0.nupkg.sha512",
+    "C:\\Users\\Rethabile Tlali\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

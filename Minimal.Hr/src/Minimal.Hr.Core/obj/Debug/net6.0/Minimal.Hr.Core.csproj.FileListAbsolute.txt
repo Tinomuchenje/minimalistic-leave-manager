@@ -1,0 +1,15 @@
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.Core\bin\Debug\net6.0\Minimal.Hr.Core.deps.json
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.Core\bin\Debug\net6.0\Minimal.Hr.Core.dll
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.Core\bin\Debug\net6.0\ref\Minimal.Hr.Core.dll
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.Core\bin\Debug\net6.0\Minimal.Hr.Core.pdb
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.Core\bin\Debug\net6.0\Minimal.Hr.SharedKernel.dll
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.Core\bin\Debug\net6.0\Minimal.Hr.SharedKernel.pdb
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.Core\obj\Debug\net6.0\Minimal.Hr.Core.csproj.AssemblyReference.cache
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.Core\obj\Debug\net6.0\Minimal.Hr.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.Core\obj\Debug\net6.0\Minimal.Hr.Core.AssemblyInfoInputs.cache
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.Core\obj\Debug\net6.0\Minimal.Hr.Core.AssemblyInfo.cs
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.Core\obj\Debug\net6.0\Minimal.Hr.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.Core\obj\Debug\net6.0\Minimal.Hr.Core.csproj.CopyComplete
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.Core\obj\Debug\net6.0\Minimal.Hr.Core.dll
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.Core\obj\Debug\net6.0\ref\Minimal.Hr.Core.dll
+C:\Users\Rethabile Tlali\source\repos\minimalistic-leave-manager\Minimal.Hr\src\Minimal.Hr.Core\obj\Debug\net6.0\Minimal.Hr.Core.pdb

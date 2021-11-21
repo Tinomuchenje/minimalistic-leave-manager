@@ -1,0 +1,7 @@
+{
+  "Minimal.Hr.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rethabile Tlali\\source\\repos\\minimalistic-leave-manager\\Minimal.Hr\\src\\Minimal.Hr.Core",
+  "Minimal.Hr.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rethabile Tlali\\source\\repos\\minimalistic-leave-manager\\Minimal.Hr\\src\\Minimal.Hr.Infrastructure",
+  "Minimal.Hr.SharedKernel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rethabile Tlali\\source\\repos\\minimalistic-leave-manager\\Minimal.Hr\\src\\Minimal.Hr.SharedKernel",
+  "Minimal.Hr.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rethabile Tlali\\source\\repos\\minimalistic-leave-manager\\Minimal.Hr\\tests\\Minimal.Hr.UnitTests",
+  "Minimal.Hr.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rethabile Tlali\\source\\repos\\minimalistic-leave-manager\\Minimal.Hr\\src\\Minimal.Hr.Web"
+}

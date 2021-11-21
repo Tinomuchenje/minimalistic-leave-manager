@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rethabile Tlali\\source\\repos\\minimalistic-leave-manager\\Minimal.Hr\\src\\Minimal.Hr.SharedKernel\\Minimal.Hr.SharedKernel.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rethabile Tlali\\source\\repos\\minimalistic-leave-manager\\Minimal.Hr\\src\\Minimal.Hr.SharedKernel\\Minimal.Hr.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rethabile Tlali\\source\\repos\\minimalistic-leave-manager\\Minimal.Hr\\src\\Minimal.Hr.SharedKernel\\Minimal.Hr.SharedKernel.csproj",
+        "projectName": "Minimal.Hr.SharedKernel",
+        "projectPath": "C:\\Users\\Rethabile Tlali\\source\\repos\\minimalistic-leave-manager\\Minimal.Hr\\src\\Minimal.Hr.SharedKernel\\Minimal.Hr.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\Rethabile Tlali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rethabile Tlali\\source\\repos\\minimalistic-leave-manager\\Minimal.Hr\\src\\Minimal.Hr.SharedKernel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rethabile Tlali\\source\\repos\\minimalistic-leave-manager\\Minimal.Hr\\NuGet.Config",
+          "C:\\Users\\Rethabile Tlali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.o2smart.com:8989/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
